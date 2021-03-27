@@ -1,0 +1,6 @@
+size(9).
+home(7,4).
+covid(3,7).
+covid(5,4).
+doctor(2,5).
+mask(1,6).
